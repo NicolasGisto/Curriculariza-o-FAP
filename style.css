@@ -26,7 +26,7 @@ header{
     font-weight:bold;
 }
 
-.entrar{
+#btnEntrar{
     background:#E50914;
     color:white;
     border:none;
